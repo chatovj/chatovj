@@ -2,7 +2,7 @@
 
 **chatovj/chatovj** 
 
-## Soy Cesar Augusto Vanegas :
+## *Soy Cesar Augusto Vanegas* :
 
 - 🔭 Trabajo en Pinto como barrendero.
 - 🌱 Estudio segundo año de ASIR ...

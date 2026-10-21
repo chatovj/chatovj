@@ -1,6 +1,6 @@
-## Holis 👋
+## Hola! Bienvenido a reposito personal 👋
 
-**chatovj/chatovj** este es mi repositorio especial ✨ GITHUB ✨ Este es mi primer README.md.
+**chatovj/chatovj** 
 
 ## Soy Cesar Augusto Vanegas :
 

@@ -1,4 +1,4 @@
-## Hola! Bienvenido a reposito personal 👋
+## Hola! Bienvenido a mi repositorio personal 👋
 
 **chatovj/chatovj** 
 

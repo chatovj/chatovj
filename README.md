@@ -1,11 +1,8 @@
 ## Holis 👋
 
-<!--
 **chatovj/chatovj** este es mi repositorio especial ✨ GITHUB ✨ Este es mi primer README.md.
 
-
-
-#Soy Cesar Augusto Vanegas :
+Soy Cesar Augusto Vanegas :
 
 - 🔭 Trabajo en Pinto como barrendero.
 - 🌱 Estudio segundo año de ASIR ...
@@ -14,5 +11,4 @@
 - 💬 Se pueden aprender mucho...
 - 📫 Me puedes contactar en cavj69@educa.madrid.org ...
 - ⚡ Me gusta la playa...
-- 
--->
+  

@@ -1,4 +1,4 @@
- <img<p align="center">
+ <p align="center">
   <img src="./goku_chato.png" alt="Banner de Goku" width="100%">
 </p>
 

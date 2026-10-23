@@ -1,4 +1,8 @@
- <img width="2048" height="768" alt="goku_chato.png" src="/media/vespertino/jordi/goku_chato.png" />
+ <img<p align="center">
+  <img src="./goku_chato.png" alt="Banner de Goku" width="100%">
+</p>
+
+
 
 ## Hola! Bienvenido a mi repositorio personal 👋
 

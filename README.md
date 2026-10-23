@@ -1,4 +1,4 @@
- <img width="2048" height="768" alt="goku_chato.png" src="https://github.com/user-attachments/assets/f0230645-00c6-4a3f-b6f1-6559fe46b3ac" />
+ <img width="2048" height="768" alt="goku_chato.png" src="/media/vespertino/jordi/goku_chato.png" />
 
 ## Hola! Bienvenido a mi repositorio personal 👋
 
